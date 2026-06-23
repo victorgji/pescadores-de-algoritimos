@@ -33,6 +33,6 @@ Utilisação em mais de um tipo de maquina (computadores, tablet's e celulares)
 4. Emanuel-Tester Qualidade
 5. Arthur-Dev/Documentação Eg. Software
 ## Links úteis
-- **Kanban (Trello):** socorro
+- **Kanban (Trello):** https://trello.com/b/xOLZ89Hz/gaming-store
 - **Protótipo (Figma):** https://www.figma.com/make/mwao2IPRydcNvPR8mClWID/Portal-Gamer-Completo?t=kgo7CCL2jJ0pxksL-20&fullscreen=1
 - **Repositório:** https://github.com/victorgji/pescadores-de-algoritimos/tree/main
