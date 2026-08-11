@@ -20,7 +20,7 @@ manter usuario logado
 verificação de duas etapas
 menu de configurações próprio de cada usuario(que se mantenha mesmo após sair do site)
 Utilisação em mais de um tipo de maquina (computadores, tablet's e celulares)
-## Riscos iniciais
+## Possíveis Riscos
 1. falhas de banco de dados
 2. falha no funcionamento como servidor remoto
 3. falhas visuais
