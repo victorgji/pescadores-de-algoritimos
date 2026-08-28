@@ -1,5 +1,5 @@
-Template do README.md
 # pescadores de algoritimos
+
 > **CEEP – Pedro Boaretto Neto**  
 > **Curso:** Técnico em Desenvolvimento de Sistemas  
 > **Disciplina:** Inovação Tecnológica e Empreendedorismo  
